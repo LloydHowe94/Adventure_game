@@ -1,0 +1,40 @@
+/* add your CSS here */
+img {
+  width: 300px;
+  border-style: hidden;
+}
+
+#interesting-fact {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+#container {
+  border-style: outset;
+  background: white;
+  padding: 5px;
+  width: 300px;
+}
+
+.animal-info {
+  border-style: outset;
+
+}
+
+.title {
+  text-align: center;
+}
+
+body {
+  background: #d3d3d3;
+}
